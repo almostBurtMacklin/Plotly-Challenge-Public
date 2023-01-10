@@ -1,0 +1,10 @@
+dash
+dash-mantine-components==0.10.2
+dash-iconify
+dash-extensions
+datetime
+pandas
+gunicorn
+openpyxl
+dash_daq
+scikit-learn

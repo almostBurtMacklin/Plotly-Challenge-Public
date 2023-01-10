@@ -1,0 +1,27 @@
+@font-face {
+    font-family: IntegralCF-ExtraBold;
+    src:url(IntegralCF-ExtraBold.otf) format("opentype");
+}
+
+@font-face {
+    font-family: IntegralCF-Regular;
+    src:url(IntegralCF-Regular.otf) format("opentype");
+}
+
+@font-face {
+    font-family: IntegralCF-Bold;
+    src:url(IntegralCF-ExtraBold.otf) format("opentype");
+}
+
+@font-face {
+    font-family: IntegralCF-RegularOblique;
+    src:url(IntegralCF-RegularOblique.otf) format("opentype");
+}
+@font-face {
+    font-family: LED;
+    src:url(digital-dismay.otf) format("opentype");
+}
+.mantine-hgwlez mantine-Accordion-label {
+    font-family: IntegralCF-RegularOblique;
+ 
+}
